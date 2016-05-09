@@ -16,3 +16,4 @@ var journal3 = [];
 
 journal3.push(goTeamGo);
 
+var smile = "wowowowow";
