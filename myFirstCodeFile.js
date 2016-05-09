@@ -1,5 +1,11 @@
 var dm11 = "Started today";
 
-var jounral = [];
+var journal = [];
 
-jounral.push(dm11);
+journal.push(dm11);
+
+var spaceBoyz = "What a party";
+
+var journal2 = [];
+
+journal2.push(spaceBoyz);
